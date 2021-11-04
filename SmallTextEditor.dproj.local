@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/18 11:11:28.000.381,=D:\!MainDelphiProjectFolder\Unit1.pas</Transaction>
+    <Transaction>2021/10/18 11:12:36.000.823,D:\!MainDelphiProjectFolder\Unit1.dfm=D:\!MainDelphiProjectFolder\WindowsApp\Small_Text_Editor\MainUnit.dfm</Transaction>
+    <Transaction>2021/10/18 11:12:36.000.823,D:\!MainDelphiProjectFolder\Unit1.pas=D:\!MainDelphiProjectFolder\WindowsApp\Small_Text_Editor\MainUnit.pas</Transaction>
+    <Transaction>2021/10/18 11:12:42.000.927,D:\!MainDelphiProjectFolder\Project1.dproj=D:\!MainDelphiProjectFolder\WindowsApp\Small_Text_Editor\SmallTextEditor.dproj</Transaction>
+    <Transaction>2021/10/18 15:41:10.000.243,=D:\!MainDelphiProjectFolder\WindowsApp\Small_Text_Editor\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

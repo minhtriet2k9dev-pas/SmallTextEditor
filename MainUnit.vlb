@@ -1,0 +1,13 @@
+﻿[MainEditor]
+Coordinates=184,10,67,33
+
+[Label1]
+Coordinates=121,10,46,51
+Visible=True
+
+[FileHandleBox]
+Coordinates=10,10,85,105
+
+[]
+Coordinates=114,80,82,33
+
