@@ -1,2 +1,4 @@
 # SmallTextEditor
-please wait for the update version with find and replace:)
+please wait for the updated version with find and replace:)
+
+
